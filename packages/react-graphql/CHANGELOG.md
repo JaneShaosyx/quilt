@@ -7,6 +7,10 @@ and adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- ## [Unreleased] -->
 
+## [6.1.22] - 2020-11-30
+
+- Updated `@shopify/react-async` dependency to `^3.1.28`.
+
 ## [6.1.21] - 2020-11-30
 
 - Updated `@shopify/react-async` dependency to `^3.1.27`.

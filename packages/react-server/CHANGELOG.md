@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [0.20.4] - 2020-11-30
+
+- Updated `@shopify/react-async` dependency to `^3.1.28`.
+
 ## [0.20.3] - 2020-11-30
 
 - Updated `@shopify/react-async` dependency to `^3.1.27`.
