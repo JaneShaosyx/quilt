@@ -1,2 +1,2 @@
-// test1
+// test2
 module.exports = require('./dist/src/testing');
