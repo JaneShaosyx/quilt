@@ -7,6 +7,10 @@ and adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 <!-- ## [Unreleased] -->
 
+## [3.3.7] - 2020-11-30
+
+- Updated `@shopify/react-graphql` dependency to `^6.1.21`.
+
 ## [3.3.6] - 2020-11-30
 
 - Updated `@shopify/react-graphql` dependency to `^6.1.20`.
